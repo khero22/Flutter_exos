@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828007046624",
+    "firebase_url": "https://cartes-1cc60.firebaseio.com",
+    "project_id": "cartes-1cc60",
+    "storage_bucket": "cartes-1cc60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828007046624:android:f5c4d5b1ae924f07",
+        "android_client_info": {
+          "package_name": "com.example.card_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828007046624-b3i5jnpucsef3r9g89v90s80lcfbhcoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkVG_5AYpKmr7Xg-Nmd7Rd3y1p64uhrP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828007046624-b3i5jnpucsef3r9g89v90s80lcfbhcoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
