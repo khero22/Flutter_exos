@@ -1,7 +1,8 @@
 # card_1
 
 ## Description:
-![Alt text](relative/path/to/CARD_1.png?raw=true "CARD 01")
+![Screenshot](CARD_1.png)
+
 mon premier teste d'application mobile en flutter
 dans ce projet on a tester les points suivant:
 
