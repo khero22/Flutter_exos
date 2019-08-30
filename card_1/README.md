@@ -1,16 +1,16 @@
 # card_1
 
-A new Flutter project.
+## Description:
 
-## Getting Started
+mon premier teste d'application mobile en flutter
+dans ce projet on a tester les points suivant:
 
-This project is a starting point for a Flutter application.
+  - widget personaliser quant la nommer CARD
+  - FireBase une base de donnee NoSql qui est vraiment geniale avec un compte gratuit 
+     tu peux creer plusieurs bases qui on la posibilite 20.000 lecture/suppression par mois top.
+  - ListView Dismissible avec un geste de defilement on peux supprimer la carte
+  - showDialog et PopupMenuButton pour la modification des nom de cartes
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
